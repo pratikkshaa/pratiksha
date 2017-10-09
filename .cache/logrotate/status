@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/osboxes/.cache/upstart/update-notifier-release.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/unity-panel-service.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/indicator-session.log" 2017-9-27-7:35:6
+"/home/osboxes/.cache/upstart/unity7.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/gnome-keyring-ssh.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/bamfdaemon.log" 2017-10-4-7:35:4
+"/home/osboxes/.cache/upstart/indicator-sound.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/upstart-event-bridge.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/window-stack-bridge.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/unity-settings-daemon.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/hud.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/ssh-agent.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/unity-panel-service-lockscreen.log" 2017-10-9-3:0:0
+"/home/osboxes/.cache/upstart/dbus.log" 2017-10-9-3:13:29
+"/home/osboxes/.cache/upstart/gpg-agent.log" 2017-10-9-3:13:29
